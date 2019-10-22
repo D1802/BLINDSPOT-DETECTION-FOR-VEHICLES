@@ -1,3 +1,5 @@
+// Declaration of input output pins which are connected to the Ultrasonic sensor and IR sensor
+
 int TriggerPIN1 = 8;  // trigger pin 1 for the 1st ultrasonic sensor on the left
 int EchoPIN1 = 9;     // echo pin 1 for the 1st ultrasonic sensor on the left
 int TriggerPIN2 = 5;  // trigger pin 2 for the 2nd ultrasonic sensor on the right
